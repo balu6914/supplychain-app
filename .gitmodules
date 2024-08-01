@@ -1,0 +1,3 @@
+[submodule "supplychain-frontend"]
+	path = supplychain-frontend
+	url = https://github.com/balu6914/supplychain-frontend.git
